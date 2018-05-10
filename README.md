@@ -28,7 +28,7 @@ public double hacerNuevaOferta(double oferta)
 //como hacer get y set
 
 
-
+(*
 //opcion 2
 public double nuevaOferta(double nuevaOferta) {
 	
@@ -41,6 +41,8 @@ public double nuevaOferta(double nuevaOferta) {
 	return nuevaOferta;
 	}
 
+
+*)
 public double getValor() {
 	return valor;
 }
