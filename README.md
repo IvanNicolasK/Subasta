@@ -1,5 +1,5 @@
 package ar.subasta;
-
+/////////////////////////////////////////////////////
 public class Subasta {
 
 	private double valor;
